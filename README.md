@@ -2,7 +2,7 @@
 
 
 ## Contexto
-O presente projeto foi aprovado pelo curso de [Machine Learning Nanodegree Engineer](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) da Udacity. Portanto, parte do código-fonte, metodologia e modelo matemático é original desse curso. Portanto, cópia de parte do material é restrito e deve obrigatoriamente conter referência ao presente repositório.
+O presente projeto foi aprovado pelo curso de [Machine Learning Nanodegree Engineer](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) da Udacity. Parte do código-fonte, metodologia e modelo matemático é original desse curso. Portanto, cópia de parte do material é restrito e deve obrigatoriamente conter referência ao presente repositório.
 
 ## Quadricóptero
 ![Parrot AR Drone](https://s3.amazonaws.com/video.udacity-data.com/topher/2017/October/59d7c61e_parrot-ar-drone/parrot-ar-drone.jpg)
