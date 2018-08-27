@@ -26,6 +26,7 @@ O arquivo principal utiliza também outros arquivos na estrutura de pastas do re
 ## Resultado
 A IA aprendeu corretamente a executar a tarefa de plainar imóvel na posição do início do comando, conforme evidenciado na figura abaixo. Portanto, é possível que outras tarefas também possam ser treinadas (ex: pousar, decolar, seguir um ponto móvel, etc).
 ![Melhor Voo](https://github.com/diogodutra/quad_AI/blob/master/best_flight.png)
+###### Medidas SI: segundos, metros, radianos, rotações por segundo (reward é adimensional).
 
 
 
