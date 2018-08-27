@@ -1,8 +1,8 @@
-# Projeto de controle de quadricóptero por Inteligência Artificial
+# Controle de quadricóptero por Inteligência Artificial
 
 
 ## Contexto
-O projeto foi aprovado durante o curso de [Machine Learning Nanodegree Engineer](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) da Udacity. Portanto, parte do código-fonte, metodologia e modelo matemático é original da referência.
+O presente projeto foi aprovado pelo curso de [Machine Learning Nanodegree Engineer](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) da Udacity. Portanto, parte do código-fonte, metodologia e modelo matemático é original da referência.
 
 ## Quadricóptero
 ![Parrot AR Drone](https://s3.amazonaws.com/video.udacity-data.com/topher/2017/October/59d7c61e_parrot-ar-drone/parrot-ar-drone.jpg)
@@ -19,4 +19,8 @@ O piloto automático, também chamado de autopiloto, é uma Inteligência Artifi
 ## Código-Fonte
 O arquivo principal onde a IA é criada e treinada está no `Quadcopter_AI_pilot.ipynb`. Ele deve ser acessado através do programa [Jupyter Notebook](http://jupyter.org/). Nele estão contidos os código-fontes e comentários mais detalhados sobre os passos do algoritmo.
 
-O restante do material contido no repositório foi escrito em Python v3.x. As bibliotecas utilizadas foram keras, matplotlib, numpy e outras nativas do Pyhton.
+O restante do material contido no repositório foi escrito em Python v3.x. As bibliotecas utilizadas são: keras, matplotlib, numpy e outras nativas do Pyhton.
+
+## Resultado
+
+![Melhor Voo](https://github.com/diogodutra/quad_AI/blob/master/best_flight.png)
