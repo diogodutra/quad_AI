@@ -19,8 +19,8 @@ O piloto automático, também chamado de autopiloto, é uma Inteligência Artifi
 ## Código-Fonte
 O arquivo principal onde a IA é criada e treinada está no `Quadcopter_AI_pilot.ipynb`. Ele deve ser acessado através do programa [Jupyter Notebook](http://jupyter.org/). Nele estão contidos os código-fontes e comentários mais detalhados sobre os passos do algoritmo.
 
-O restante do material contido no repositório foi escrito em Python v3.x. As bibliotecas utilizadas são: keras, matplotlib, numpy e outras nativas do Pyhton.
+O arquivo principal utiliza também outros arquivos na estrutura de pastas do repositório. Eles foram escritos em Python v3.x e utilizam as seguintes bibliotecas: keras, matplotlib, numpy e outras nativas do Pyhton.
 
 ## Resultado
-
+A IA aprendeu corretamente a executar a tarefa de plainar imóvel na posição do início do comando, conforme evidenciado na figura abaixo. Portanto, é possível que outras tarefas também possam ser treinadas (ex: pousar, decolar, seguir um ponto móvel, etc).
 ![Melhor Voo](https://github.com/diogodutra/quad_AI/blob/master/best_flight.png)
