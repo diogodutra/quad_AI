@@ -2,7 +2,7 @@
 
 
 ## Contexto
-O presente projeto foi aprovado pelo curso de [Machine Learning Nanodegree Engineer](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) da Udacity. Portanto, parte do código-fonte, metodologia e modelo matemático é original da referência.
+O presente projeto foi aprovado pelo curso de [Machine Learning Nanodegree Engineer](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) da Udacity. Portanto, parte do código-fonte, metodologia e modelo matemático é original desse curso.
 
 ## Quadricóptero
 ![Parrot AR Drone](https://s3.amazonaws.com/video.udacity-data.com/topher/2017/October/59d7c61e_parrot-ar-drone/parrot-ar-drone.jpg)
@@ -14,7 +14,7 @@ O *drone* é um Parrot AR Drone com 4 rotores com controles independentes. Apren
 A proposta geral do projeto é criar um piloto automático que controle os 4 rotores de forma que o quadricóptero voe conforme a tarefa designada por um piloto não-treinado. Entretanto, a versão atual do projeto inclui apenas a tarefa de pairar imóvel na posição atual no início do comando.
 
 ## Piloto Automático
-O piloto automático (*autopilot*) é uma Inteligência Artificial - IA (*Artificial Inteligence*) que foi treinada executando centenas de voos em simulação. A IA, também chamada de agente, possui redes neurais que são retreinadas a cada passo de cada voo considerando o grau de sucesso (ou fracasso) dos voos anteriores. Devido ao fato de se apoiar numa medida de sucesso, esse algoritmo de Aprendizado de Máquina (*Machine Learning*) é chamado de "Aprendizado por Reforço" (*Reinforcement Learning*). Além disso, também é chamado de "Aprendizado Profundo" (*Deep Learning*) pelo fato de usar redes neurais profundas. O nome do modelo matemático utilizado é *Deep Deterministic Policy Gradients* (DDPG) e seus detalhes estão documentados [nesse paper](https://arxiv.org/abs/1509.02971). 
+O piloto automático (*autopilot*) é uma Inteligência Artificial - IA (*Artificial Intelligence*) que foi treinada executando centenas de voos em simulação. A IA, também chamada de agente, possui redes neurais que são retreinadas a cada passo em cada voo considerando o grau de sucesso (ou fracasso) dos voos anteriores. Devido ao fato de se apoiar numa medida de sucesso, esse algoritmo de Aprendizado de Máquina (*Machine Learning*) é chamado de "Aprendizado por Reforço" (*Reinforcement Learning*). Além disso, também é chamado de "Aprendizado Profundo" (*Deep Learning*) pelo fato de usar redes neurais profundas. O nome do modelo matemático utilizado é *Deep Deterministic Policy Gradients* (DDPG) e seus detalhes estão documentados [nesse paper](https://arxiv.org/abs/1509.02971). 
 
 ## Código-Fonte
 O arquivo principal onde a IA é criada e treinada está no `Quadcopter_AI_pilot.ipynb`. Ele deve ser acessado através do programa [Jupyter Notebook](http://jupyter.org/). Nele estão contidos os código-fontes e comentários mais detalhados sobre os passos do algoritmo.
