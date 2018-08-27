@@ -30,11 +30,10 @@ A IA aprendeu corretamente a executar a tarefa de plainar imóvel na posição d
 
 
 ## *Rights*
-This project was submitted by Diogo Dutra as part of the Machine Learning Engineer Nanodegree At Udacity. As part of Udacity Honor code, your submissions must be your own work, hence submitting this project as yours will cause you to break the Udacity Honor Code and the suspension of your account.*
+*This project was submitted by Diogo Dutra as part of the Machine Learning Engineer Nanodegree At Udacity. As part of the Udacity Honor code, your submissions must be your own work, hence submitting this project as yours will cause you to break the Udacity Honor Code and the suspension of your account.*
 
-*Reference to this source is required whenever parts or the whole of the material
-is used.*
+*Reference to this source is required whenever parts or the whole of the material is used.*
 
-*Standard license is applicable and this license notice must be included in all works derived from this project.*
+*Standard license is applicable.*
 
 *THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*
