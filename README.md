@@ -8,7 +8,7 @@ The present project was approved by the [Machine Learning Nanodegree Engineer](h
 ![Parrot AR Drone](https://s3.amazonaws.com/video.udacity-data.com/topher/2017/October/59d7c61e_parrot-ar-drone/parrot-ar-drone.jpg)
 ###### source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:81RNYV29HCL._SL1500_%281/%29.jpg); [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-The drone is a Parrot AR Drone propelled by 4 rotors with independent controls. Learning to control each rotor with proper coordination to perform a predetermined flight pattern is not intuitive so it requires a long trainning from the pilot.
+The drone is a Parrot AR Drone propelled by 4 rotors with independent controls. Learning to control each rotor with proper coordination to perform a predetermined flight pattern is not intuitive so it requires a long training from the pilot.
 
 ## Project
 The general proposal is to design an autopilot to control the 4 rotors in order to perform a task designated by an untrained pilot. However, the last commit includes only the task to hover still at the target position.
