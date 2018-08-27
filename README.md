@@ -26,7 +26,7 @@ The main file calls other files that are present in the repository folder struct
 ## Result
 The AI has successfully learned to steadily hover at the same position from the beginning of the command, as ilustrated in the figure below. For this reason, it is possible that the AI can be trained to perform other flight patterns such as landing, taking off, following a moving target and others.
 ![Best flight](https://github.com/diogodutra/quad_AI/blob/master/best_flight.png)
-###### SI Measurements: seconds, meters, meters per second, radians, radians per second, rotations per second (reward is adimensional).
+###### IS measurements: seconds, meters, meters per second, radians, radians per second, rotations per second (reward is adimensional).
 
 
 
