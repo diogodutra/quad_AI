@@ -25,27 +25,14 @@ O arquivo principal utiliza também outros arquivos na estrutura de pastas do re
 A IA aprendeu corretamente a executar a tarefa de plainar imóvel na posição do início do comando, conforme evidenciado na figura abaixo. Portanto, é possível que outras tarefas também possam ser treinadas (ex: pousar, decolar, seguir um ponto móvel, etc).
 ![Melhor Voo](https://github.com/diogodutra/quad_AI/blob/master/best_flight.png)
 
-## License
-PROJECT LICENSE
 
-This project was submitted by Diogo Dutra as part of the Nanodegree At Udacity.
 
-Reference to this source is required whenever parts or the whole of the code is used.
+## Rights
+This project was submitted by Diogo Dutra as part of the Machine Learning Engineer Nanodegree At Udacity. As part of Udacity Honor code, your submissions must be your own work, hence submitting this project as yours will cause you to break the Udacity Honor Code and the suspension of your account.
 
-As part of Udacity Honor code, your submissions must be your own work, hence
-submitting this project as yours will cause you to break the Udacity Honor Code
-and the suspension of your account.
+Reference to this source is required whenever parts or the whole of the material
+is used.
 
-Me, the author of the project, allow you to check the code as a reference, but if
-you submit it, it's your own responsibility if you get expelled.
+Standard license is applicable and this license notice must be included in all works derived from this project.
 
-Besides the above notice, the following license applies and this license notice
-must be included in all works derived from this project.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
