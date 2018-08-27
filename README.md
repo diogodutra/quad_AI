@@ -19,14 +19,15 @@ O piloto automático (*autopilot*) é uma Inteligência Artificial - IA (*Artifi
 A IA, também chamada de agente, possui redes neurais que foram retreinadas a cada passo em cada voo considerando o grau de sucesso (ou fracasso) dos voos anteriores. Devido ao fato de se apoiar numa medida de sucesso, esse algoritmo de Aprendizado de Máquina (*Machine Learning*) é chamado de "Aprendizado por Reforço" (*Reinforcement Learning*). Além disso, também é chamado de "Aprendizado Profundo" (*Deep Learning*) pelo fato de usar redes neurais profundas. O nome do modelo matemático utilizado é *Deep Deterministic Policy Gradients* (DDPG) e seus detalhes estão documentados [nesse paper](https://arxiv.org/abs/1509.02971). 
 
 ## Código-Fonte
-O arquivo principal onde a IA foi criada e treinada está no `Quadcopter_AI_pilot.ipynb`. Ele deve ser acessado através do programa [Jupyter Notebook](http://jupyter.org/). Nele estão contidos os código-fontes e comentários com detalhes sobre os passos do algoritmo.
+O arquivo principal onde a IA foi criada e treinada é o `Quadcopter_AI_pilot.ipynb`. Ele deve ser acessado através do programa [Jupyter Notebook](http://jupyter.org/). Nele estão contidos os código-fontes e comentários com detalhes sobre os passos do algoritmo.
 
-O arquivo principal utiliza também outros arquivos na estrutura de pastas do repositório. Eles foram escritos em Python v3.x e utilizam as seguintes bibliotecas: keras, matplotlib, numpy e outras nativas do Pyhton.
+O arquivo principal utiliza também outros arquivos presentes na estrutura de pastas do repositório. Eles foram escritos em Python v3.x e utilizam as seguintes bibliotecas: keras, matplotlib, numpy e outras nativas do Pyhton.
 
 ## Resultado
-A IA aprendeu corretamente a executar a tarefa de plainar imóvel na posição do início do comando, conforme evidenciado na figura abaixo. Portanto, é possível que outras tarefas também possam ser treinadas (ex: pousar, decolar, seguir um ponto móvel, etc).
+A IA aprendeu a executar corretamente a tarefa de plainar imóvel na posição do início do comando, conforme evidenciado na figura abaixo. Portanto, é possível que outras tarefas também possam ser treinadas com metodologia semelhante (ex: pousar, decolar, seguir um ponto móvel, etc).
 ![Melhor Voo](https://github.com/diogodutra/quad_AI/blob/master/best_flight.png)
 ###### Medidas SI: segundos, metros, metros por segundo, radianos, radianos por segundo, rotações por segundo (reward é adimensional).
+
 
 
 
