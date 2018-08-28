@@ -16,7 +16,7 @@ The general proposal is to design an autopilot to control the 4 rotors in order 
 ## Autopilot
 The autopilot is an Artificial Intelligence (AI) trained after hundreds of simulated flights.
 
-The AI, also called agent, has neural networks that were repeatedly trained after every step considering the score of every flight. For this reason, this "Machine Learning" algorithm is also called "Reinforcement Learning". Moreover, it is also called "Deep Learning" due to the fact that the deep neural network was employed. The mathematical model used is the *Deep Deterministic Policy Gradients* (DDPG), as detailed in [this paper](https://arxiv.org/abs/1509.02971). 
+The AI, also called agent, has neural networks that were repeatedly trained after every step considering the score of every flight. For this reason, this "Machine Learning" algorithm is also called "Reinforcement Learning". Moreover, it is also called "Deep Learning" due to the fact that a deep neural network was employed. The mathematical model used is the *Deep Deterministic Policy Gradients* (DDPG), as detailed in [this paper](https://arxiv.org/abs/1509.02971). 
 
 ## Souce code
 The main file where the AI has been created and trained is the `Quadcopter_AI_pilot.ipynb`. It should be opened through the [Jupyter Notebook](http://jupyter.org/). Its code is properly commented with highlights about the algorithm.
