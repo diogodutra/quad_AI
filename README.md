@@ -21,7 +21,7 @@ The AI, also called agent, has neural networks that were repeatedly trained afte
 ## Souce code
 The main file where the AI has been created and trained is the `Quadcopter_AI_pilot.ipynb`. It should be opened through the [Jupyter Notebook](http://jupyter.org/). Its code is properly commented with highlights about the algorithm.
 
-The main file calls other files that are present in the repository folder structure. They were written for Python v3.x and they import the following libraries: keras, matplotlib, numpy and other natives from Pyhton.
+The main file calls other files that are present in the repository folder structure. They were written for Python v3.x and they import the following libraries: keras, matplotlib, pandas, numpy and other natives from Python.
 
 ## Result
 The AI has successfully learned to steadily hover at the same position from the beginning of the command, as ilustrated in the figure below. For this reason, it is possible that the AI can be trained to perform other flight patterns such as landing, taking off, following a moving target and others.
